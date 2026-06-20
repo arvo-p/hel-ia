@@ -19,7 +19,8 @@
 - **Framework d'Orchestration :** [LangChain](https://github.com/langchain-ai/langchain) / [LangGraph](https://github.com/langchain-ai/langgraph) (State Graph)
 - **Modèle de Langage (LLM) :** `Llama 3.3-70b` via l'API **Groq** (`ChatGroq`)
 - **Routage Sémantique :** Hugging Face Encoders
-- **Recherche & Indexation (RAG) :** - `Vector Retriever` (Sens sémantique profond)
+- **Recherche & Indexation (RAG) :** 
+   - `Vector Retriever` (Sens sémantique profond)
    - `BM25Retriever` (Termes techniques exacts et mots-clés)
 - **Gestion de la Mémoire :** `MemorySaver` avec gestion de sessions par `thread_id`
 - **Persistance & Cache :** SQLite

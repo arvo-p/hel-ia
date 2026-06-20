@@ -1,0 +1,107 @@
+à compléter
+Bachelier en informatique, orientation technologies de l’informatique (profession en pénurie)
+- Présentation
+- Programme d′étude
+- Profils d′enseignement
+- Stages / TFE
+- Débouchés
+- Brevets & certifications
+- de réaliser des programmes robustes et efficaces dans des langages à la pointe du progrès,
+- de travailler sur des machines et des progiciels modernes,
+- de concevoir des schémas corrects de bases de données et de les mettre en œuvre à l’aide d’outils logiciels adaptés,
+- de concevoir, de construire et de programmer des circuits électroniques sur mesure,
+- de monter et de programmer des cartes à microcontrôleurs,
+- de commander des automates,
+- d’acquérir, de traiter et de transmettre des données de tout type.
+Dans la section Technologie de l’informatique, sont mises en avant :
+- l’apprentissage de la maîtrise des microprocesseurs, des operating systems, des réseaux Intranet et Internet,
+- la communication avec le monde extérieur via le web,
+- la voie vers l’autonomie en matière d’apprentissage.
+Un diplôme en Technologies de l’informatique fournit un emploi assuré dans des domaines variés et porteurs tels les systèmes informatiques, la technologie des supports et circuits informatiques, les réseaux télématiques et la transmission de données, la transmission d’images, le contrôle informatique de processus industriels, les terminaux graphiques, les logiciels de développement, les logiciels d’aide à l’exploitation, les logiciels didactiques.
+Résultats de l’enquête satisfaction :
+100 % estiment que la réputation de la HEL est bonne, voire très bonne.
+82 % estiment que le programme du bachelier prépare bien aux exigences de la profession.
+82 % exercent une profession actuellement.
+100 % estiment que la réputation de la HEL est bonne, voire très bonne.
+95 % sont satisfaits de la maîtrise, par le diplômé, des compétences professionnelles.
+90 % estiment que le programme du bachelier prépare bien aux exigences de la profession.
+95 % estiment que la réputation de la HEL est bonne, voire très bonne.
+95 % estiment que le programme du bachelier prépare bien aux exigences de la profession.
+100 % souhaiteraient accueillir un stagiaire l’année prochaine.
+95 % souhaiteraient pouvoir travailler avec le stagiaire lorsqu’il sera diplômé.
+Pour accéder au programme des cours de cette formation ( par cycle ou par bloc) ainsi qu’aux engagements pédagogiques de chaque cours du programme :
+Trois années de formation permettent d’obtenir le titre de Bachelier en Informatique : deux années de tronc commun et une troisième année durant laquelle l’étudiant à la possibilité d’approfondir sa formation au travers de trois orientations (Architecture des réseaux, Langages avancés et Microinformatique embarquée).
+Dès la première année, la formation se veut professionnalisante. La pratique vient directement soutenir l’apprentissage des contenus théoriques. Puisque la maîtrise des technologies de l’informatique nécessite aussi bien la connaissance des aspects matériels et logiciels, les activités d’apprentissage sont nombreuses et diversifiées. Tout au long de la formation, on étudiera donc plusieurs domaines de compétences : la programmation, l’électronique, l’étude des systèmes, les réseaux et communications, …
+La formation se conclut par la réalisation d’un stage en entreprise de 14 semaines et d’un travail de fin d’études.
+Dans un milieu où les technologies sont en constante évolution et où les débouchés sont multiples, la formation est progressivement orientée dans le but de permettre aux étudiants d’acquérir une autonomie, tant dans le cadre de la formation que dans l’objectif de maintenir une autoformation continuée tout au long de leur parcours professionnel.
+Au terme de ses trois années, l’étudiant acquiert un profil pleinement en accord avec le monde professionnel qui l’attend, mais aussi, il est préparé pour une éventuelle poursuite d’études.
+Stage
+Le stage de fin d’études clôture la formation du bachelier en technologie de l’informatique. Il démarre au mois de février et s’étale sur 14 semaines. Il se déroule en entreprise et consiste en une immersion des apprenants dans le milieu professionnel. Les tâches réalisées dépendent des activités de l’entreprise et sont un complément à la formation reçue à la haute école.
+La recherche du lieu de stage et la prise de contact avec le maître de stage sont des démarches que doit entreprendre l’étudiant. Afin d’aider les étudiants dans cette tâche, ils reçoivent les coordonnées des lieux de stage proposés antérieurement et font l’objet d’un encadrement.
+Le stage aboutit à la rédaction d’un travail de fin d’études (TFE) et à une présentation orale devant un jury composé de professeurs de la Haute École et de scientifiques de différentes entreprises.
+TFE
+Dans cette rubrique, vous trouverez des exemples d’abstracts de travaux de fin d’études réalisés par les étudiants de 3è année afin d’obtenir leur diplôme. Ces travaux ont été réalisés au cours de leur stage de quatorze semaines, encadrés par un professeur de notre établissement et sur les conseils des entreprises qui les accueillent en stage.
+Déploiement et mise à jour automatisés, gestion et monitoring d’un ERP
+Avant mon arrivée, l’installation d’un nouvel environnement client de l’ERP (Enterprise Resource Planning) ainsi que sa gestion et mise à jour se faisait entièrement manuellement. Le but principal de ce travail de fin d’études a été de mettre en place un système de déploiement et de mise à jour automatisés de l’ERP. L’objectif a été de lier le script d’automatisation avec une nouvelle interface implémentée dans l’ERP de la société. Cette interface a été développée en Laravel pour le backend et en Angular pour le frontend. Elle aura donc pour but de permettre la création ainsi que la mise à jour des environnements clients, mais aussi la gestion de ceux-ci par le biais de différentes fonctionnalités de l’interface.
+REFONTE D’UN INTRANET EN ASP.NET MVC 5
+Ce travail est réalisé dans le cadre d’un stage au sein de l’entreprise BEA, leader mondial de solutions de détection pour portes automatiques.
+Le projet consiste à modifier l’interface graphique de leur intranet de production qui est basé sur une base de données. Celle-ci est destinée à stocker les différents paramètres possibles de leurs produits ainsi que les résultats de tous les tests effectués pour chaque article lors de la production. Elle permet également de pouvoir retracer l’historique d’un produit.
+Le choix a été fait de repartir de zéro ce qui a permis de passer en pattern MVC. Des réunions ont eu lieu avec tous les services qui utilisent cet intranet afin que la nouvelle version corresponde au mieux à leurs besoins quotidiens. De plus, de nouvelles fonctionnalités structurelles ont été ajoutées dans la base, dans l’optique de simplifier certaines actions.
+Le projet a pu être mené à son terme et tous les utilisateurs ont eu la possibilité de tester et émettre des remarques. De petites améliorations sont toutefois toujours envisageables dans le futur.
+DÉVELOPPEMENT D’UNE APPLICATION WEB DE REPORTING D’AUDIENCE DE RADIO ET TV DIGITALE
+Nous vivons dans un monde où les divertissements et les médias se développent de plus en plus sur les plateformes internet. Avoir un aperçu des dernières tendances le plus rapidement possible est devenu un enjeu économique crucial pour les diffuseurs.
+L’objectif de ce travail de fin d’études -réalisé au sein de la société 303 % Media- consiste à présenter, au travers de codes et d’explications, une application web permettant aux diffuseurs de visualiser grâce à des tableaux et des graphiques très simples, mais qui affichent instantanément les données essentielles aux diffuseurs.
+Malgré les énormes quantités de données pouvant être générées à l’écran par l’application, les technologies utilisées pendant le développement de celle-ci sont à la pointe des dernières technologies.
+ÉTUDE ET MISE EN ŒUVRE D’UNE PASSERELLE DALI MODBUS POUR LA GESTION DES ÉCLAIRAGES DE L’OPÉRA ROYAL DE WALLONIE
+En vue d’améliorer le système d’automatisation des luminaires hors scène, l’Opéra Royal de Wallonie avait pour objectif d’installer un système stable qui permet de gérer à distance les 450 luminaires présents dans le bâtiment ; ceux-ci devaient nous répondre lorsque nous communiquions avec eux et enfin, pouvoir visualiser leur état en temps réel.
+Au final, tous les points du cahier des charges ont été remplis. On peut gérer les luminaires à distance. Lorsque l’on questionne ceux-ci, ils nous répondent et il est possible de visualiser l’état du système en temps réel.
+Nous sommes même allés plus loin que prévus en installant un système qui utilise du matériel déjà sur place tel que des « Magelis » (panneau tactile de gestion d’automate) afin de contrôler les luminaires.
+Nous recevons des notifications par mail, voire même par SMS, lorsqu’un problème survient.
+DIMENSIONNEMENT ET BUSINESS-PLAN D’UNE EXTENSION DE PARC D’ACTIVITÉ ÉCONOMIQUE AFIN D’EN AUGMENTER L’ATTRACTIVITÉ
+Dans le cadre d’un stage effectué à la faculté d’ingénierie civile en électricité et informatique de l’Institut Montefiore (Université de Liège), dans les bureaux de recherche du département du professeur Ernst, l’étudiant a collaboré au développement d’un futur zoning industriel, avec des moyens de production de l’électricité autonomes. Il s’agissait de faire de la recherche pour savoir quelles technologies mettre en place et la façon d’optimiser leurs intégrations.
+Dans le secteur public, comme dans le secteur privé, le bachelier en informatique pourra travailler dans des secteurs aussi divers que :
+- Les télécoms,
+- Les sociétés de services (développement de logiciels, réseau, helpdesk,…),
+- Les sociétés de transport,
+- Le secteur bancaire,
+- PME de vente, installation, réparation de matériel informatique,
+- Les services informatiques (administrations, hôpitaux),
+- Comme technico-commercial,
+- Dans l’enseignement (moyennant un diplôme pédagogique complémentaire),
+- …
+Bon nombre de nos étudiants trouvent leur premier emploi dans l’entreprise où ils ont effectué leur stage.
+Quelques entreprises où travaillent nos anciens (liste non exhaustive) :
+- Plusieurs administrations communales de notre province,
+- EVS,
+- NRB,
+- Société Synchrône,
+- TNT,
+- …
+LES BREVETS ET CERTIFICATIONS EN COURS DE FORMATION
+Eu égard à la synergie développée entre notre établissement et le centre de compétence Technifutur, des opportunités de formations complémentaires sont accessibles à nos étudiants, et ce, gratuitement.
+Points forts
+-
+Formation polyvalente
+Hardware, software, orientations à large spectre.
+-
+Climat relationnel
+Excellentes relations entre étudiants, enseignants et administratifs.
+-
+Qualité de l’encadrement
+Enseignants compétents et disponibles
+-
+Laboratoires d’informatique
+Matériel et logiciels adaptés aux besoins
+-
+Insertion professionnelle des étudiants facilitée par :
+un programme de cours adapté, un apprentissage de l’autonomie, un stage de 14 semaines
+-
+Localisation
+Facilités d’accès (transports en commun, autoroute, parking aisé), commerces à proximité, espaces verts.
+-
+Offres de stages
+Nombreuses opportunités de stages dans la région
+-
+Perspectives d’emploi
+Nombreuses offres d’emploi correspondant à la formation dispensée
+Ces différents points forts ont été relevés par les experts lors de l’audit qualité organisé par l’AEQES.

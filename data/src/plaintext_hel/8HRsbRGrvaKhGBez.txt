@@ -1,0 +1,190 @@
+Bachelier – AESI – Mathématiques
+Ce bachelier est accessible uniquement aux étudiants ayant entamé ces études avant l’année académique 23-24 et qui souhaitent les terminer
+Depuis septembre 2023, une formation en 4 ans
+Quelques nouveautés :
+- une préparation à l’entrée dans le métier renforcée grâce à …
+- un partage des cours avec l’Université de Liège (ULiège)
+- un allongement de la durée des stages
+- un approfondissement des connaissances didactiques
+- une formation disciplinaire amplifiée
+- une réflexion ajoutée sur la collaboration de tous les acteurs de l’école,
+- un titre permettant d’enseigner dans davantage de classes,
+- un renforcement des liens avec la recherche pour nourrir les pratiques réflexives,
+- une formation mettant l’accent sur la prise en charge de l’erreur et les élèves à besoins spécifiques.
+Ces études représentent la formation la plus spécifique pour enseigner les mathématiques dans le début de l’enseignement secondaire.
+Pour aborder cette formation, il est préférable d’aimer les mathématiques (c’est-à-dire de prendre du plaisir à résoudre des problèmes de mathématiques), de ne pas être « allergique » aux adolescents et d’avoir suivi dans le secondaire un cours de mathématiques assez substantiel.
+Cette formation vise à développer notamment les compétences professionnelles suivantes chez les étudiants :
+- savoir communiquer face à un groupe,
+- être capable de travailler en équipes,
+- être prêt à continuer sa formation au-delà de la formation initiale,
+- être capable d’élaborer complètement une séquence de cours,
+- être capable de faire comprendre les mathématiques à des élèves pas forcément motivés par ce cours, …
+Pour ce faire, la formation des AESI en mathématiques s’appuie sur un développement en profondeur des notions mathématiques à enseigner et sur une maîtrise de toutes les procédures que les futurs diplômés auront à apprendre à leurs élèves. Ces procédures sont, par exemple, les méthodes de résolution algébrique, les démarches de construction géométrique et les algorithmes de calcul.
+De plus, les étudiants seront amenés à développer des techniques de conduite d’un cours de mathématiques. Sont abordés l’analyse et le découpage des matières à enseigner, l’élaboration des préparations et la construction de supports de tous types (documents de cours destinés aux élèves, animations utilisant l’outil informatique, …).
+| Titre | Heures | Crédits | Quadri |
+| Cours obligatoires | |||
+| Connaissances socioculturelles (SM101) | 48 | 4 | Q.1 |
+| → Philosophie | 24 | ||
+| → Diversité culturelle | 24 | ||
+| Traitement numérique de données / Probabilités et Statistiques 1 (SM105) | 36 | 3 | Q.2 |
+| → Traitement numérique de données – probabilités et statistiques | 36 | ||
+| Eléments d’algorithmique et utilisation des calculatrices et de logiciels 1 (SM106) | 36 | 3 | Q.2 |
+| → Eléments d’algorithmique et utilisation des calculatrices et de logiciels 1 | 36 | ||
+| Maitrise de la langue française orale et écrite 1 (SM114) | 45 | 4 | Q.2 |
+| → Maitrise de la langue française orale et écrite 1 | 45 | ||
+| Pratique professionnelle 1 (SM130) | 60 | 3 | Q.12 |
+| → Stages | 60 | ||
+| Eléments de physique 1 (SM118) | 24 | 2 | Q.2 |
+| → Eléments de physique 1 | 24 | ||
+| Formation mathématique de base – Eléments fondamentaux de la géométrie (SM131) | 43 | 6 | Q.1 |
+| → Formation mathématique de base – éléments fondamentaux de la géométrie | 43 | ||
+| Formation mathématique de base – Logique (SM132) | 22 | 3 | Q.1 |
+| → Formation mathématique de base – logique | 22 | ||
+| Formation mathématique de base – Algèbre (SM133) | 43 | 3 | Q.1 |
+| → Formation mathématique de base – algèbre | 43 | ||
+| Formation mathématique de base – Etude des nombres (SM136) | 44 | 6 | Q.2 |
+| → Formation mathématique de base – étude des nombres | 44 | ||
+| Formation mathématique de base – Géométrie du triangle et du cercle (SM137) | 40 | 5 | Q.2 |
+| → Formation mathématique de base – géométrie du triangle et du cercle | 40 | ||
+| Formation pédagogique – Psychologie du développement (SM139) | 24 | 2 | Q.2 |
+| → Psychologie du développement | 24 | ||
+| Formation pédagogique – Psychologie de l’apprentissage (SM140) | 24 | 2 | Q.2 |
+| → Psychologie de l’ apprentissage | 24 | ||
+| Communication en milieu scolaire (SM141) | 24 | 2 | Q.2 |
+| → Psychologie de la relation et de la communication | 24 | ||
+| Techniques de communication 1 (SM142) | 24 | 2 | Q.2 |
+| → Informatique | 12 | ||
+| → Apport des médias et des TIC en enseignement | 12 | ||
+| Formation pédagogique (SM143) | 36 | 3 | Q.1 |
+| → Pédagogie générale | 24 | ||
+| → Epistémologie des disciplines | 12 | ||
+| Atelier de formation professionnelle 1 (SM144) | 132 | 7 | Q.12 |
+| → Ateliers de formation professionnelle 1 | 120 | ||
+| → Identité de l’enseignant | 12 |
+| Titre | Heures | Crédits | Quadri |
+| Cours obligatoires | |||
+| Maitrise de la langue française orale et écrite 2 (SM202) | 45 | 3 | Q.1 |
+| → Maîtrise de la langue française orale et écrite 2 | 45 | ||
+| Eléments d’algorithmique et utilisation des calculatrices et de logiciels 2 (SM204) | 32 | 3 | Q.1 |
+| → Eléments d’algorithmique et utilisation des calculatrices et de logiciels | 32 | ||
+| Eléments de physique 2 (SM205) | 24 | 2 | Q.1 |
+| → Eléments de physique 2 | 24 | ||
+| Initiation à la démarche scientifique (SM207) | 36 | 3 | Q.2 |
+| → Initiation à la recherche en éducation | 24 | ||
+| → Informatique | 12 | ||
+| Traitement numérique de données / Probabilités et Statistiques 2 (SM209) | 24 | 2 | Q.1 |
+| → Traitement numérique de données – probabilités et statistiques 2 | 24 | ||
+| Formation pédagogique – Initiation aux pédagogies actives et à la créativité (SM221) | 32 | 2 | Q.1 |
+| → Techniques de gestion de groupe et expression orale | 20 | ||
+| → Apport des médias et des TIC en enseignement | 12 | ||
+| Formation pédagogique – Psychologie des apprentissages (SM222) | 20 | 2 | Q.1 |
+| → Psychologie des apprentissages | 20 | ||
+| Formation mathématique de base – Suites et séries (SM223) | 13 | 2 | Q.1 |
+| → Formation mathématique de base – Suites et séries | 13 | ||
+| Formation mathématique de base – Etude de fonctions (SM224) | 50 | 5 | Q.1 |
+| → Formation mathématique de base – Etude de fonctions | 50 | ||
+| Formation mathématique de base – Géométrie du quadrilatère (SM225) | 30 | 4 | Q.1 |
+| → Formation mathématique de base – géométrie du quadrilatère | 30 | ||
+| Préparation à la pratique professionnelle 2 (SM226)
+Corequis : Prat. prof. 2 |
+130 | 6 | Q.12 |
+| → Ateliers de formation professionnelle, y compris les liaisons PM – PS – ENS | 130 | ||
+| Pratique professionnelle 2 (SM227)
+Prérequis : Prat. prof. 1 Corequis : Prépa. prat. prof. 2 |
+120 | 7 | Q.12 |
+| → Stages (4 semaines) | 120 | ||
+| Construction de l’identité professionnelle 2 (SM228) | 24 | 2 | Q.2 |
+| → Ouverture sur l’extérieur et découverte du patrimoine artistique liégeois | 12 | ||
+| → Identité de l’enseignant | 12 | ||
+| Formation pédagogique – Evaluation des apprentissages (SM229) | 20 | 2 | Q.2 |
+| → Evaluation des apprentissages | 20 | ||
+| Formation pédagogique – Psychologie du développement (SM230) | 20 | 2 | Q.1 |
+| → Psychologie du développement | 20 | ||
+| Formation mathématique de base – Grandeurs et initiation à l’approche interactive (SM231) | 32 | 4 | Q.2 |
+| → Formation mathématique de base – grandeurs et initiation à l’approche interactive | 32 | ||
+| Formation mathématique de base – Géométrie 3D (SM232) | 48 | 5 | Q.2 |
+| → Formation mathématique de base – géométrie 3D | 48 | ||
+| Cours obligatoires, à choisir parmi une liste | |||
+| Différencier par les pédagogies actives (SM217) | 20 | 2 | Q.2 |
+| Les TIC au service de l’innovation pédagogique (SM218) | 20 | 2 | Q.2 |
+| Français de scolarisation (SM219) | 20 | 2 | Q.2 |
+| Titre | Heures | Crédits | Quadri |
+| Cours obligatoires | |||
+| Formation pédagogique – Pédagogies actives (SM318) | 24 | 2 | Q.1 |
+| → Étude critique des grands courants pédagogiques | 24 | ||
+| Éléments d’algorithmique et utilisation des calculatrices et de logiciels 3 (SM303) | 36 | 3 | Q.1 |
+| → Éléments d’algorithmique et utilisation des calculatrices et de logiciels 3 | 36 | ||
+| Ouverture, Arts et culture (SM305) | 24 | 2 | Q.1 |
+| → Initiation aux arts et à la culture | 24 | ||
+| Éléments de physique 3 (SM307) | 36 | 3 | Q.2 |
+| → Éléments de physique 3 | 36 | ||
+| Technologies et numérique (SM308) | 24 | 2 | Q.1 |
+| → Informatique | 12 | ||
+| → Moyens audiovisuels Apport des médias et des TIC en enseignement | 12 | ||
+| Pratique professionnelle 3 (SM326)
+Prérequis : Prat. prof. 2 |
+72 | 4 | Q.12 |
+| → Notions d’orthopédagogie | 12 | ||
+| → Stages (2 semaines) | 60 | ||
+| Pratique professionnelle 4 (SM319)
+Prérequis : Prat. prof. 2 Corequis : Prépa. prat. prof. 3 et 4 |
+240 | 9 | Q.12 |
+| → Stages (8 semaines) | 240 | ||
+| Préparation à la pratique professionnelle 3 et 4 (SM321)
+Corequis : Prat. prof. 4 |
+84 | 5 | Q.12 |
+| → Élaboration du projet professionnel | 12 | ||
+| → Différenciation des apprentissages, détection des difficultés et remédiations | 12 | ||
+| → Ateliers de formation professionnelle | 60 | ||
+| TFE (SM327) | 12 | 16 | Q.12 |
+| → Préparation au TFE | 12 | ||
+| → TFE | n/a | ||
+| Formation mathématique de base – Géométrie 3D et géométrie analytique (SM322) | 72 | 6 | Q.1 |
+| → Formation mathématique de base- Géométrie 3D et géométrie analytique | 72 | ||
+| Connaissances sociopolitiques du système éducatif (SM323) | 24 | 2 | Q.2 |
+| → Sociologie et politique de l’éducation | 24 | ||
+| Neutralité et dimension de genre (SM324) | 32 | 2 | Q.2 |
+| → Neutralité | 20 | ||
+| → Dimension de genre | 12 | ||
+| Formation mathématique de base – Trigonométrie (SM325) | 40 | 4 | Q.2 |
+| → Formation mathématique de base- trigonométrie | 40 |
+Dans le souci de sans cesse faire évoluer la formation pour l’adapter aux réalités du terrain, nous proposons des activités toujours en lien avec les pratiques de classe.
+C’est ainsi que nous organisons entre autres:
+- un module « Créativité », pour initier nos étudiants aux techniques d’innovation adaptées à l’enseignement ;
+- un module « Approche interactive », qui met l’accent sur l’analyse des interactions entre élèves dans les processus d’apprentissage ;
+- une option « Français de scolarisation », pour optimiser l’accueil des élèves dont le français n’est pas la langue maternelle ;
+- une option « Différencier par les pédagogies actives », véritable axe directeur de notre enseignement ;
+- une option « Les TIC au service de l’innovation pédagogique », pour initier les étudiants aux nouvelles technologies et méthodologies qui y sont liées en enseignement;
+- des activités à l’extérieur en collaboration avec des associations, des artistes professionnels, des musées, des bibliothèques, des lieux culturels… pour développer la culture, découvrir le patrimoine liégeois et enrichir la formation artistique de nos étudiants ainsi que pour construire des outils et des démarches didactiques à exploiter dans leurs pratiques ;
+- des ateliers de formation professionnelle animés par plusieurs enseignants de disciplines différentes ;
+- une unité optionnelle « Outils relationnels » pour apprendre à mieux fonctionner avec soi et avec les autres et pour établir un climat positif dans les classes.
+Choisir d’entreprendre ses études à la HEL, c’est adhérer aux valeurs humanistes et citoyennes défendues par l’enseignement communal liégeois.
+Depuis plus de 100 ans, nous formons des enseignants bénéficiant d’une formation solide dans un établissement à taille humaine permettant un encadrement personnalisé. Si vous êtes intéressés par le caractère diversifié et exhaustif de notre formation, rejoignez-nous !
+Au cours de votre formation, l’accent sera mis sur le lien entre la théorie et la pratique notamment au travers des ateliers de formation professionnelle et des stages.
+Sur le terrain, vous bénéficierez d’un encadrement personnalisé assuré à la fois par les professeurs de discipline, les psychopédagogues, les maitres de formation pratique et les maitres de stage.
+La durée des stages et les exigences d’évaluation seront progressives tout au long du cursus (2 semaines en bloc 1, 4 semaines en bloc 2 et 10 semaines en bloc 3).
+Dans un but d’ouverture aux différentes réalités professionnelles, les lieux de stage pour les blocs 2 et 3 seront proposés par les enseignants du département des sciences de l’éducation. Ces choix privilégieront des maitres de stage chevronnés de l’enseignement officiel, et prioritairement ceux de l’enseignement communal liégeois, pratiquant des pédagogies variées et ouvertes à la diversité culturelle. Ils tiendront également compte de vos souhaits quant à la situation géographique et l’accessibilité des écoles.
+Votre formation initiale d’enseignant-e se rapprochant de son terme, une belle occasion vous sera donnée de mettre en valeur vos compétences de praticien-ne réflexif-ve et chercheur-se.
+En effet, avec le soutien d’un-e professeur-e de discipline ou de pédagogie, le Travail de Fin d’Etudes (TFE), qui prend place au Bloc 3, sera l’opportunité de vous pencher de manière plus approfondie sur une problématique qui vous aura particulièrement interpellé-e au cours de votre formation.
+Quelques sujets choisis les années précédentes :
+-
+En quoi travailler l’écoute active permet-il de développer la compétence « parler » des élèves de 3e année ?
+-
+Comment l’aménagement de la cour de récréation peut-il encourager le « mieux vivre à l’école » ?
+-
+Comment l′écoute de la musique peut-elle avoir une influence sur l′expression des émotions en 3ème maternelle?
+-
+La pédagogie différenciée peut-elle résoudre les inégalités au sein d′un cours d′arts plastiques ?
+-
+Dans quelle mesure les travaux en ateliers permettent-ils de combler les lacunes et retards des élèves ayant des difficultés en première secondaire ?
+-
+En quoi un projet d’éducation aux médias permet de développer l’esprit critique des élèves ?
+Dès la 2ème année d’études, un cours d’Initiation à la Recherche en Education (IRE) fournit les outils nécessaires pour se lancer dans ce travail qui, au final, apporte à l’étudiant-e un réel sentiment de fierté qui pourra culminer lors des félicitations d’un jury, au moment de la défense orale du travail.
+Que vous choisissiez la section préscolaire, primaire ou secondaire, votre avenir professionnel est assuré dans l’enseignement, métier en pénurie!
+En dehors de l’enseignement, votre diplôme de bachelier professionnalisant vous ouvrira des portes, tant dans la fonction publique (administrations, ministères…) que dans le secteur privé (banques, assurances, associations…).
+Vous pourrez également envisager une carrière d’enseignant à l’étranger ou encore participer à des projets de coopération.
+Vous pourrez aussi compléter votre formation : des passerelles existent entre les Hautes Écoles et les Universités (Master en sciences de l’éducation, en sciences du travail, en arts du spectacle,…) ainsi que des passerelles internes entre nos trois sections (préscolaire, primaire, secondaire). En formation continuée, un module de formation aux pédagogies actives et à l’orthopédagogie.
+-
+à compléter
+-
+à compléter

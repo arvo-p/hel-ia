@@ -1,0 +1,81 @@
+à compléter
+Bachelier – Energies alternatives et renouvelables (en co-organisation avec la HEPL)
+La production et l’utilisation rationnelle de l’énergie fossile et de substitution sont au cœur des préoccupations mondiales de ce début de XXIème siècle (épuisement et cherté des ressources, pollution et bouleversement climatique, …).
+Il est indispensable de générer de nouvelles actions concrètes de formation et de compétences en réponse au défi du réchauffement climatique et de la réduction des émissions polluantes. Ces mesures concernent entre autres le secteur de l’industrie, du bâtiment, du transport et de la conversion d’énergie fossile et de substitution.
+L’enjeu majeur concerne la réduction des émissions de gaz à effet de serre et l’amélioration de la qualité de l’air, ce qui impose de globaliser les nouvelles compétences pour développer des systèmes à haute performance énergétique et environnementale fortement décarbonés.
+La formation s’articule autour de cinq axes non cloisonnés repris ci-dessous.
+- Conceptuel théorique
+Mathématiques Appliquées, Sciences Appliquées et Anglais
+- Conceptuel appliquée
+Technologies énergétiques, Thermodynamique, Thermochimie, Electricité appliquée, Electronique, Régulation, Mécanique appliquée, Mécanique des fluides
+- Techniques de Gestion Classique
+Gestion informatique, Gestion économique, Gestion financière, Droit et législation
+- Techniques de Gestion Eco-Energétique
+Projet énergétique, Technologies des énergies alternatives et renouvelables, Economie de l’environnement et du développement durable
+- Philosophie Eco-Ethique et Développement Durable
+Philosophie éco-éthique et développement durable, Histoire des sciences et des techniques appliquées aux énergies alternatives, Intégration harmonieuse des énergies alternatives dans l’environnement
+Pour accéder au programme des cours de cette formation ( par cycle ou par bloc) ainsi qu’aux engagements pédagogiques de chaque cours du programme :
+PRÉREQUIS
+NIVEAU EN MATHÉMATIQUES
+Des études générales ou techniques où 4h de mathématiques/semaine (minimum) ont été suivies sont une bonne préparation pour suivre sans problème le cours de mathématiques de Bloc1. 2h/semaine dans le secondaire, c’est trop peu pour suivre sans un gros travail en dehors des cours. Les matières abordées au Bloc1 sont principalement les matières de 5ème secondaire et 6ème secondaire vues de façon peut-être un peu plus théorique.
+NIVEAU EN ÉLECTRICITÉ ET ÉLECTRONIQUE
+Dans beaucoup de sections de l’enseignement secondaire, les étudiants ont pu suivre un cours de physique de base qui pourra les aider. Cependant, les cours recommencent à la base, donc avec une étude continue et assidue, il est tout à fait possible de réussir les épreuves. L’absence de laboratoire pendant le secondaire n’est pas un handicap.
+NIVEAU EN ANGLAIS
+Il s’agit d’anglais technique à destination des bacheliers en énergies alternatives et renouvelables. C’est un module de 60 h pendant les deux quadrimestres en Bloc1. Il en est de même en Bloc 2. Il n’y a pas de niveau requis. Un test est prévu au début du cours pour déterminer le niveau de chacun et, en fonction des résultats, certains seront dispensés d’assister à une partie du cours pour permettre aux autres de se remettre à niveau. De manière générale, le cours ne se veut pas un cours d’anglais “poussé”, l’idée c’est d’offrir une base orienté vers les technologies durables dont les étudiants seront probablement amenés à se servir.
+NIVEAU DANS LES COURS ORIENTÉS TECHNOLOGIE
+Aucun prérequis n’est nécessaire.
+Le stage de fin d’études clôture la formation du bachelier en énergies alternatives et renouvelables. Il démarre au mois de février et s’étale sur 14 semaines. Il se déroule en entreprise et consiste en une immersion des apprenants dans le milieu professionnel. Les tâches réalisées dépendent des activités de l’entreprise et sont un complément à la formation reçue à la haute école.
+La recherche du lieu de stage et la prise de contact avec le maître de stage sont des démarches que doit entreprendre l’étudiant. Afin d’aider les étudiants dans cette tâche, ils reçoivent les coordonnées des lieux de stage proposés antérieurement et font l’objet d’un encadrement.
+Le stage aboutit à la rédaction d’un travail de fin d’études (TFE) et à une présentation orale devant un jury composé de professeurs de la Haute École et de membres de différentes entreprises.
+Dans cette rubrique, vous trouverez des exemples d’abstracts de travaux de fin d’études réalisés par les étudiants de 3è année afin d’obtenir leur diplôme. Ces travaux ont été réalisés au cours de leur stage de quatorze semaines, encadrés par un professeur de notre établissement et sur les conseils des entreprises qui les accueillent en stage.
+Le repowering est-il l’avenir du parc éolien européen ? Étude de cas dans le canton de Redange
+Le repowering éolien est le fait de remplacer une éolienne arrivée en fin de vie par une éolienne plus puissante et plus récente. Dans ce travail, je m’interroge sur le repowering éolien. Son intérêt aussi bien écologique qu’économique. Je commence par analyser la situation énergétique luxembourgeoise, la composition du mix énergétique, les objectifs pour le futur ainsi que les stratégies mises en place pour respecter les accords de Paris. Je parle ensuite du parc éolien installé dans la commune de Préizerdaul dans le canton de Redange se situant dans le Grand-Duché de Luxembourg. Ensuite, nous voyons pourquoi il a été décidé de faire un repowering de ces éoliennes avec une présentation des nouvelles installations, les motivations des investisseurs ainsi que les démarches légales à entamer pour installer des éoliennes dans le Grand-Duché de Luxembourg. Je présente aussi un problème qu’il m’a été demandé de résoudre lors de mon stage par rapport à des données de vent potentiellement erronées. Je continue en présentant les aides étatiques ainsi que le tarif d’injection luxembourgeois. Nous parlons ensuite du repowering à l’échelle mondiale et principalement en Europe, avec la présentation des deux pays les plus avancés dans le repowering (Allemagne et Danemark). Ainsi que l’avenir pouvant être imaginé pour le futur du parc européen. Nous terminons le travail avec l’analyse du cycle de vie d’une éolienne ainsi que des différentes possibilités pour le recyclage.
+Dimensionnement de moyens de stockage en vue d’optimiser l’autoconsommation d’installations photovoltaïques résidentielles
+Le tarif Prosumer. Si vous vous intéressez de près ou de loin au photovoltaïque, ce terme doit vous être familier. Ce travail répond à une question que soulève la mise en place de ce tarif Prosumer. Vaut-il mieux prendre un forfait ou payer au kWh rejeté sur le réseau ? La réponse se trouve dans votre taux d’autoconsommation, c’est-à-dire la consommation en direct de l’énergie produite par votre installation photovoltaïque. Dans ce travail, nous étudierons les différentes solutions qui sont mises en œuvre par l’entreprise Dauvister dans le but de maximiser l’autoconsommation d’un client. Afin de partir sur de bonnes bases, nous reviendrons sur le fonctionnement et la mise en place d’une installation photovoltaïque. Nous terminerons par une étude de cas visant à répondre à l’interrogation d’un client quant à l’intérêt d’agrandir son installation photovoltaïque au détriment de son installation solaire thermique. Pour répondre à cette question, nous ferons état de son autoconsommation actuelle.
+Étude d’un outil de prédimensionnement de micro réseaux photovoltaïques autonomes dans les pays en voie de développement
+Le développement des micro réseaux s’est accéléré ces dernières années. En effet, ils répondent à plusieurs problématiques auxquelles les sociétés actuelles doivent faire face. Nous pouvons citer, entre autres, la lutte contre le changement climatique, une augmentation du nombre de personnes bénéficiant d’un accès à l’électricité ou encore une utilisation plus efficace des ressources et de l’énergie.
+Un micro réseau est un système de production et de distribution d’électricité qui, contrairement aux réseaux traditionnels, se fait à plus petite échelle et se base sur une consommation locale de l’énergie, sans besoin de la transporter sur de longues distances.
+Toutefois, la conception de tels systèmes est complexe tant les paramètres à prendre en compte sont nombreux. Il faut pouvoir assurer une fiabilité élevée tout en limitant les surcoûts.
+Afin de pouvoir pré-dimensionner les installations, j’ai développé une feuille de calcul Excel qui, à partir de données succintes et facilement disponibles, permet de configurer les différents composants de l’unité de production d’électricité de micro réseaux autonomes. Les résultats peuvent alors être étudiés plus en détails, éventuellement grâce à d’autres logiciels, comme HOMER.
+C’est un outil simple, facilement modifiable et adaptable à chaque projet. Il permet de répondre au désir d’Enersol de standardiser la méthode de dimensionnement des projets d’installations autonomes, particulièrement dans les pays en voie de développement.
+L’AUTOSUFFISANCE ÉNERGÉTIQUE GRÂCE AU RENOUVELABLE : ANALYSE ET MISE AU POINT D’UN SYSTÈME DE CHAUFFAGE ALIMENTÉ PAR UNE POMPE À CHALEUR ET PAR UN NOUVEAU PANNEAU SOLAIRE HYBRIDE THERMIQUE ET PHOTOVOLTAÏQUE
+Dans le cadre de ma 3e année en énergies alternatives et renouvelables, j’ai dû réaliser un stage de fin d’études d’une période de 14 semaines. L’entreprise m’ayant accueilli se nomme CONSOLAR Belgium. Elle est à la pointe de la technologie et est active dans le secteur des énergies renouvelables, que ce soit via des installations photovoltaïques, thermiques, ou par des pompes à chaleur.
+Durant la période de stage et afin de réaliser mon travail de fin d’études, j’ai dû prendre connaissance de l’installation de chauffage actuelle ainsi que de son fonctionnement. Le but de l’entreprise étant d’améliorer la qualité de la régulation du système de chauffage, j’ai dû réaliser une analyse fonctionnelle basée sur l’intégration d’un automate pour obtenir une meilleure autosuffisance énergétique du bâtiment.
+REDIMENSIONNEMENT D’UNE TABLE ÉLÉVATRICE À ROULEAUX
+Dans le cadre de ce travail de fin d’études en Énergies Alternatives et Renouvelables, l’étudiant a réalisé un stage de 14 semaines dans l’entreprise ArcelorMittal Differdange au sein du service maintenance du laminoir. Cette usine est constituée d’un train de laminage: le Train Grey produit des poutres lourdes parmi les plus grandes du monde dont les sections Jumbo, et des palplanches (capacité de production annuelle: 740 000 tonnes).
+La finalité du projet était de préparer le dossier de redimensionnement d’une table élévatrice à rouleaux, aussi appelée Wippe, afin de laminer des profils d’une hauteur d’âme plus importante. Cela comprenait de redessiner l’assemblage de la Wippe au moyen du logiciel Autodesk Inventor, de recalculer les éléments de levage et de proposer un nouveau système d’élévation.
+RÉALISATION D’UN CADASTRE DES POSSIBILITÉS DE PRODUCTION ET DE RÉCUPÉRATION D’ÉNERGIE SUR LA STATION DE WEGNEZ
+Durant son stage, il a été demandé à l’étudiant de réaliser un projet pour une station d’épuration de l’AIDE. Ce projet consiste en la récupération et la production d’énergie sur la station pilote.
+Afin de mettre en place le projet, l’étudiant a analysé le site et a déterminé ce qu’il était possible d’y implanter et a ainsi étudié certains points particuliers propres à la station. Ensuite, il a fallu établir la rentabilité des solutions proposées. Pour cela, des cahiers des charges, ainsi que des rencontres avec des professionnels ont été effectués.
+Le diplômé en énergies alternatives et renouvelables aura une vision globale qui lui permettra de définir des actions locales sur l’ensemble des paramètres énergétiques afin d’optimiser la production, le transport, le stockage et la consommation de toutes les énergies. Il maîtrisera des compétences techniques, environnementales et économiques. Il élaborera ainsi la solution la plus efficiente.
+Les bacheliers seront employés :
+- par les entreprises des secteurs de la construction, de l’industrie et de l’agronomie,
+- les sociétés de services,
+- les administrations et organismes parastataux (Service public de Wallonie, Services Travaux des Provinces et des Communes, Fonds des bâtiments scolaires, Intercommunales, Sociétés de logement social,…),
+- les bureaux d’études, les laboratoires d’essais de matériaux, les bureaux de contrôle et les centres scientifiques et techniques,
+- …
+Points forts
+-
+Formation polyvalente
+Techniques de Gestion Classique, techniques de Gestion Eco-énergétiques, philosophie Eco-éthique et développement durable.
+-
+Climat relationnel
+Excellentes relations entre étudiants, enseignants et administratifs
+-
+Qualité de l’encadrement
+Enseignants compétents et disponibles
+-
+Laboratoires d’informatique
+Matériel et logiciels adaptés aux besoins
+-
+Insertion professionnelle des étudiants facilitée par :
+Un programme de cours adapté, un apprentissage de l’autonomie, un stage de 14 semaines
+-
+Localisation
+Facilités d’accès (transports en commun, autoroute, parking aisé), commerces à proximité, espaces verts.
+-
+Offres de stages
+Nombreuses opportunités de stages dans la région
+-
+Perspectives d’emploi
+L’avenir demandera de plus en plus de bacheliers sensibilisés aux développements industriels et économiques en harmonie avec notre environnement et au développement durable

@@ -1,0 +1,57 @@
+à compléter
+Bachelier – Electronique – orientation électronique appliquée (profession en pénurie)
+Cette formation promotionne un enseignement construit sur un juste équilibre entre théorie et applications, dans les domaines de l’électronique digitale et analogique.
+Des cours de laboratoire et des ateliers viennent compléter la formation et mettent l’étudiant en contact avec les technologies des circuits et leur conception, des techniques de montage et de production, de mesures, d’analyses et de diagnostics.
+Pour accéder au programme des cours de cette formation ( par cycle ou par bloc) ainsi qu’aux engagements pédagogiques de chaque cours du programme :
+Les études de bachelier en électronique appliquée s’étalent sur 3 années.
+A travers un tronc commun de deux années, suivi d’une troisième année plus orientée et d’un stage en entreprise, la formation permet d’aborder les fondements de l’électronique et les bases scientifiques qui y sont associées. La formation se veut pratique : les cours théoriques sont appliqués par des manipulations et des projets.
+Dès la première année, l’étudiant est confronté aux technologies actuelles. Il analyse et conçoit des circuits analogiques et numériques. Il est également initié à la programmation, désormais indispensable dans l’électronique moderne.
+En deuxième année, les notions déjà abordées sont approfondies et d’autres connaissances sont acquises, notamment dans les domaines du traitement de l’information, des télécommunications, de l’automatique, de la robotique, de l’électroacoustique et de l’électronique de puissance.
+En troisième année, avant d’effectuer un stage de 14 semaines en entreprise, l’apprentissage des connaissances générales se poursuit et les étudiants ont le choix parmi trois orientations :
+Cette option est plutôt destinée à l’étudiant désirant se rapprocher du milieu de l’industrie, quelle que soit sa taille.
+Les capacités de l’étudiant seront améliorées d’un point de vue global allant de l’étude, la budgétisation, la réalisation et enfin la maintenance d’un projet industriel orienté vers les systèmes mobiles automatiques et/ou asservis (automates programmables, robotique, moteurs).
+L’objectif sera la gestion de projets liés tant du point de vue strict de l’électronique, dans le sens signal, via la gestion des éléments de production, que d’un point de vue énergétique.
+Après une introduction aux systèmes embarqués dans le tronc commun, cette orientation s’attelle à approfondir l’analyse et la mise en place hardware et software des systèmes embarqués dits temps réel. Confronté à différentes technologies, l’étudiant devra acquérir une méthodologie d’analyse de leur architecture pour optimiser leur utilisation.
+La finalité de cette option se base sur l’étude des systèmes audiovisuels tant en captation, transmission et diffusion. Les différentes techniques mises en œuvre sont explorées afin de permettre aux étudiants d’être rapidement efficaces sur le terrain.
+L’étudiant diplômé en électronique possède donc une formation pratique, ce qui fait de lui une personne apte à réagir face aux contraintes de terrain. Dans un milieu où les technologies sont en constante évolution, et où les débouchés sont multiples, il pourra aussi compter sur sa formation théorique solide pour s’adapter, se former continuellement et développer son esprit critique.
+Le stage de fin d’études clôture la formation du bachelier en électronique. Il démarre au mois de février et s’étale sur 14 semaines. Il se déroule en entreprise et consiste en une immersion des apprenants dans le milieu professionnel. Les tâches réalisées dépendent des activités de l’entreprise et sont un complément à la formation reçue à l’école.
+La recherche du lieu de stage et la prise de contact avec le maître de stage sont des démarches que doit entreprendre l’étudiant. Des entreprises ayant ou non déjà accueilli d’anciens étudiants proposent spontanément des offres aussitôt communiquées par affichage.
+Le stage aboutit à la rédaction d’un travail de fin d’études (TFE) et à une présentation orale devant un jury composé de professeurs de la Haute École et de professionnels de différentes entreprises.
+Dans cette rubrique, vous trouverez des exemples d’abstracts de travaux de fin d’études réalisés par les étudiants de 3è année afin d’obtenir leur diplôme. Ces travaux ont été réalisés au cours de leur stage de quatorze semaines, encadrés par un professeur de notre établissement et sur les conseils des entreprises qui les accueillent en stage.
+Conception et Programmation d’une carte d’acquisition de données multi-protocoles
+Mon projet de stage consiste à la conception et programmation d’une carte d’acquisition de données multi-protocoles, où l’on branche différents capteurs (Température, manomètre de pression, débitmètre, etc.) sur un microcontrôleur.
+Ces capteurs communiquent avec le microcontrôleur grâce à différents protocoles particulier (One-Wire, Impulsion, Analogique, Modbus etc.), et les données sont ensuite envoyées du microcontrôleur vers un serveur sur internet pour être traitées par la suite.
+Intégration électronique et logicielle d’actionneurs et d’éléments de chauffe pour le contrôle d’un pasteurisateur en continu
+Le projet de développer un pasteurisateur est né dans l’optique d’apporter une solution abordable aux producteurs qui font de la vente directe et veulent augmenter la durée de conservation de leurs produits.
+Durant mon stage, j’ai eu l’occasion de travailler sur les parties électroniques et logicielles de ce projet en développant un PCB autour d’un microcontrôleur Arduino MKR permettant de gérer les différents éléments du pasteurisateur via un logiciel embarqué.
+Les bases acquises durant mes études et beaucoup de recherches m’ont permis d’appréhender de nombreux domaines. Au terme du stage, un test réel du pasteurisateur chez un client a permis de valider le bon fonctionnement de l’ensemble des parties sur lesquelles j’ai travaillé.
+Prototype d’un objet connecté : gestion d’un espace de travail et monitoring d’un accumulateur
+Ce travail de fin d’étude, réalisé dans le cadre d’un stage en entreprise (Wave SPRL), a eu pour but d’optimiser la gestion d’un espace travail.
+L’objectif visé consistait dans la conception d’une borne mobile autonome fonctionnant sur accumulateurs.
+Cette borne devait être capable de fournir du courant afin d’aménager un nouvel espace de travail sans contrainte. Elle devait pouvoir aussi être connectée à l’infrastructure Officebooking et ainsi permettre la gestion de l’espace de travail.
+Ma recherche s’est effectuée à partir de publications récentes : articles scientifiques et documents internet.
+J’ai donc réalisé un prototype, sur carte de développement, permettant le monitoring de la charge d’un accumulateur et l’envoi de celle-ci sur une application internet via le protocole de communication MQTT.
+Ce prototype fonctionne correctement et la société peut à présent envisager sa commercialisation.
+Ainsi, j’espère avoir rencontré le besoin de développement exprimé par la société.
+Développement d’interfaces softwares et hardwares pour un système de pick and place de microcomposants
+Lors de son stage au sein du Centre de Recherches Sirris à Seraing, l’étudiant a développé une machine de « pick and place » personnalisée à partir d’un robot de « dispensing » existant. Il a ainsi travaillé sur la mise en place d’un robot de dépôt de colle et de placement de microcomposants électroniques -sur de multiples substrats- avec une précision de positionnement de 0.01 mm. Ce robot n’a pas un objectif de rendement ; il est développé dans le but de faire des essais sur de nouvelles matières innovantes pour réduire de plus en plus l’utilisation de circuits imprimés, car de nos jours il est possible d’imprimer directement les pistes électroniques sur le substrat.
+Réalisation d’un microsystème innovant : conception et réalisation d’un projet pour une entreprise de microélectronique avec mise en place d’un processus d’assemblage avec une machine de pick and place
+Dans le cadre de ce travail de fin d’études en électronique appliquée, section robotique, il a été demandé à l’étudiant de faire sur son lieu de stage (Taipro Engineering) la conception, la réalisation, les tests et les modifications post-production nécessaires d’un objet promotionnel. Cette société étant spécialisée dans le domaine de la microélectronique, l’objet promotionnel devait être fait avec les machines de l’entreprise. Ces machines ont des utilités telle que : les micros-câblages, le placement et le câblage de puces nues, les dispensings et les assemblages automatiques, et bien d’autres.
+L’objet promotionnel est un PCB en forme de latte de 15 cm et qui contient des puces nues, des SMD, des fils de bonding. L’objet devait (en enclenchant un bouton) faire allumer différentes LEDs de manière temporisée.
+Trois secteurs sont particulièrement friands de nos diplômés :
+- L’électronique médicale, pour les acquis en maintenance ;
+- L’audiovisuel (RTBF) pour les acquis techniques dans le domaine de l’image et du son ;
+- La défense (FN Herstal, John Cockerill) pour les acquis en robotique.
+De manière générale, ce sont des laboratoires de conception, comme il y en a de nombreux dans la région liégeoise, qui sont intéressés par le profil de nos étudiants.
+La 3è année comporte un stage en entreprise d’une durée de 14 semaines. Son importance est significative. L’étudiant se voit généralement confier un projet concret souvent utile à l’entreprise qui l’accueille.
+Ce stage débouche fréquemment sur une proposition d’embauche de l’étudiant.
+-
+à compléter
+-
+à compléter
+-
+à compléter
+-
+à compléter
+-
+à compléter

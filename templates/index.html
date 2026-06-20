@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEL Assistant - Haute École de Liège</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+			<div class="logo">Assistant - Haute Ecole de Liège</div>
+        </header>
+        
+        <div id="chat-messages" class="messages">
+            <div class="message bot">
+                Bonjour ! Je suis l'assistant de la Haute École de Liège. Comment puis-je vous aider aujourd'hui ?
+            </div>
+        </div>
+        
+        <div class="input-area">
+            <textarea id="user-input" placeholder="Posez votre question ici..." rows="1"></textarea>
+            <button id="send-btn">
+                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M22 2L11 13M22 2L15 22L11 13M11 13L2 9L22 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const messagesContainer = document.getElementById('chat-messages');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+
+        function appendMessage(text, side, sql_id = null) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${side}`;
+            
+            const contentDiv = document.createElement('div');
+            contentDiv.className = 'content';
+            if (side === 'user') {
+                contentDiv.textContent = text;
+            } else {
+                contentDiv.innerHTML = marked.parse(text);
+            }
+            msgDiv.appendChild(contentDiv);
+
+            if (side === 'bot' && sql_id) {
+                const likeBtn = document.createElement('button');
+                likeBtn.className = 'like-btn';
+                likeBtn.innerHTML = `
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" />
+                    </svg>
+                    Utile
+                `;
+                likeBtn.onclick = async () => {
+                    if (likeBtn.classList.contains('liked')) return;
+                    try {
+                        const res = await fetch('/like', {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ sql_id })
+                        });
+                        if (res.ok) {
+                            likeBtn.classList.add('liked');
+                            likeBtn.innerHTML = `
+                                <svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2">
+                                    <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" />
+                                </svg>
+                                Merci !
+                            `;
+                        }
+                    } catch (e) {
+                        console.error("Erreur lors du like", e);
+                    }
+                };
+                msgDiv.appendChild(likeBtn);
+            }
+
+            messagesContainer.appendChild(msgDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            return msgDiv;
+        }
+
+        async function sendMessage() {
+            const question = userInput.value.trim();
+            if (!question) return;
+
+            userInput.value = '';
+            userInput.style.height = 'auto';
+            appendMessage(question, 'user');
+
+            const botMsgDiv = document.createElement('div');
+            botMsgDiv.className = 'message bot typing';
+            messagesContainer.appendChild(botMsgDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question })
+                });
+
+                if (!response.ok) throw new Error('Erreur réseau');
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                let accumulatedText = '';
+                
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+                    accumulatedText += decoder.decode(value, { stream: true });
+                }
+
+                botMsgDiv.remove(); // Remove typing indicator
+
+                try {
+                    const data = JSON.parse(accumulatedText);
+                    appendMessage(data.content, 'bot', data.sql_id);
+                } catch (e) {
+                    // Fallback if not JSON
+                    appendMessage(accumulatedText, 'bot');
+                }
+
+            } catch (error) {
+                botMsgDiv.classList.remove('typing');
+                botMsgDiv.textContent = "Désolé, une erreur est survenue.";
+                console.error(error);
+            }
+        }
+
+        sendBtn.addEventListener('click', sendMessage);
+        userInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        // Auto-resize textarea
+        userInput.addEventListener('input', function() {
+            this.style.height = 'auto';
+            this.style.height = (this.scrollHeight) + 'px';
+        });
+    </script>
+</body>
+</html>

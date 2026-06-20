@@ -1,0 +1,98 @@
+\documentclass[11pt, letterpaper]{article}
+
+% imports and setup
+\usepackage{listings}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{indentfirst}
+\usepackage[french]{babel}
+
+% colors
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+% font size
+\makeatletter
+\newcommand\notsotiny{\@setfontsize\notsotiny\@viipt\@viipt}
+\makeatother
+
+% images
+\graphicspath{{images/}}
+
+% code
+\lstset{frame=none,
+  basicstyle=\tiny,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+% PAGE DE GARDE
+\title{Architecture - Assistant intélligent HEL}
+\author{PETITJEAN Gabriel}
+\date{May 11, 2026}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+% TABLE DE MATIERE
+\clearpage
+\tableofcontents
+\clearpage
+
+\section{Architecture de l'assistant intelligent}
+
+\subsection{Configuration du modèle}
+Le modèle utilisé est \textit{Llama 3.3-70b} via l'API Groq (\textit{ChatGroq}). Ce choix permet d'obtenir des meilleurs performances comparé à un modèle local sur mon ordinateur. La température est fixée à 1 pour permettre une certaine souplesse dans la formulation, tandis que la précision factuelle est assurée par le système RAG et des consignes système strictes.
+\begin{lstlisting}
+        self.model = ChatGroq(model=model_name, temperature=1)
+\end{lstlisting}
+
+\subsection{Flux de travail de l'Orchestrateur}
+L'implémentation de l'orchestrateur repose sur \textit{LangGraph}, qui maintient un \textit{StateGraph} orchestrant le flux de traitement des messages.
+
+\begin{center}
+	\makebox[\textwidth]{\includegraphics[height=1.2\textwidth]{stategraph}}
+\end{center}                                                                                                                           
+
+Le flux est composé des nœuds suivants :
+
+\textbf{route\_question} : Utilise un \textit{SemanticRouter} (avec \textit{HuggingFaceEncoder}) pour classifier la question (FAQ simple vs requête complexe) et décide si une recherche documentaire est nécessaire.
+
+\textbf{rewrite\_query} : Reformule la question de l'utilisateur en une requête autonome et compréhensible sans le contexte de l'historique de la conversation. Ce nœud est crucial pour traiter les questions de suivi (ex: "Et leur adresse ?").
+
+\textbf{search\_cache} : Interroge un gestionnaire de cache (\textit{CacheManager}) pour voir si une réponse identique ou très similaire a déjà été validée.
+
+\textbf{retrieve} : En cas de "cache miss", ce nœud effectue une recherche hybride via un \textit{EnsembleRetriever} combinant une recherche sémantique (vecteurs) et une recherche par mots-clés (BM25).
+
+\textbf{generate} : Produit la réponse finale en intégrant le résumé global et les documents spécifiques récupérés, tout en respectant des consignes de sécurité (interdiction de "halluciner" ou de guider l'utilisateur vers l'extérieur).
+
+\textbf{reply\_cache} : Renvoie directement la réponse trouvée dans le cache pour minimiser la latence et les coûts.
+
+\subsection{Récupération hybride (RAG)}
+L'assistant utilise une approche d'ensemble pour la récupération :
+\begin{itemize}
+    \item \textbf{BM25Retriever} : Efficace pour les termes techniques exacts.
+    \item \textbf{VectorRetriever} : Capte le sens sémantique de la question.
+\end{itemize}
+Les résultats sont pondérés (30\% BM25, 70\% Vecteurs) pour garantir la meilleure pertinence possible.
+
+\subsection{Gestion de la mémoire et du cache}
+La persistance de la conversation est assurée par un \textit{MemorySaver} avec gestion de sessions (\textit{thread\_id}). De plus, un système de cache persistant (SQLite) est utilisé pour stocker les réponses aux questions fréquentes, améliorant ainsi le temps de réponse pour les requêtes récurrentes.
+
+
+\end{document}

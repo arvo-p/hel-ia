@@ -1,0 +1,133 @@
+à compléter
+Bachelier – Chimie – orientation chimie appliquée / environnement (profession en pénurie)
+- Présentation
+- Programme d′étude
+- Profils d′enseignement
+- Stages & TFE
+- Débouchés
+- Brevets et certifications
+La HEL propose 3 formations au futur Bachelier en Chimie :
+- La Chimie Industrielle,
+- La Chimie de l’Environnement,
+- La Pharmaco-Chimie.
+Elles permettent à l’étudiant d’appliquer ses connaissances générales de chimie dans un domaine bien précis.
+Le Bloc1 est commun aux trois formations.
+Au Bloc2, l’étudiant a le choix entre la Chimie Industrielle et la Chimie de l’Environnement.
+Au Bloc3, les étudiants de Chimie Industrielle peuvent choisir soit de continuer la Chimie Industrielle, soit de s’orienter en Pharmaco-Chimie.
+A la fin de son cycle, le bachelier peut directement entrer dans la vie active, mais il est également libre de poursuivre ses études pour viser le diplôme de master en chimie ou encore d’ingénieur industriel ou civil en chimie.
+Pour accéder au programme des cours de cette formation ( par cycle ou par bloc) ainsi qu’aux engagements pédagogiques de chaque cours du programme :
+PRÉREQUIS
+NIVEAU EN MATH
+En principe, un cours de 4h/semaine dans l’enseignement secondaire est une formation suffisante pour suivre, normalement, sans problème le cours de math de Bloc1.
+2h/semaine dans le secondaire, c’est trop peu pour suivre sans un gros travail en dehors des cours.
+Les matières abordées au Bloc 1 sont principalement les matières de 5ème et 6ème secondaires (calcul d’intégrales y compris), vues de façon peut-être un peu plus théorique et plus rapide.
+Une remise à niveau en math est organisée avant la rentrée académique. Elle dure une semaine (matins ou après-midi). Les inscriptions se font au secrétariat, lors de l’inscription au Bloc1.
+NIVEAU EN PHYSIQUE
+Idéalement, physique 3h/semaine serait bien, car le cours recommence à la base, donc avec une étude continue et assidue, il est tout à fait possible de réussir les épreuves.
+L’absence de laboratoire pendant le secondaire n’est pas un handicap.
+La matière : pour le Bloc1, toute la mécanique classique et l’optique et pour le Bloc2, la mécanique ondulatoire et les ondes, ainsi qu’une introduction à la mécanique relativiste restreinte et à la mécanique quantique.
+NIVEAU EN ANGLAIS
+Il s’agit d’anglais technique à destination des chimistes.
+C’est un cours à 2h/semaine pendant un quadrimestre (30h).
+Il n’y a pas de niveau requis. Un test est prévu au début du cours pour déterminer le niveau de chacun et, en fonction des résultats, certains seront dispensés d’assister à une partie du cours pour permettre aux autres de se remettre à niveau. De manière générale, le cours ne peut pas être un cours d’anglais “poussé”, l’idée c’est d’offrir une base dont les étudiants peuvent se servir.
+NIVEAUX EN CHIMIE
+En principe, les étudiants qui veulent suivre la formation de bachelier en chimie viennent de sciences fortes (enseignement général) ou de technique de transition en sciences (enseignement technique de transition), où les cours de sciences prédominent.
+Mais la matière du secondaire étant revue, les étudiants qui n’ont pas suivi un parcours scientifique peuvent néanmoins suivre la formation de bachelier en chimie. L’absence de laboratoire pendant le secondaire n’est pas un handicap pour venir suivre la formation de bachelier en chimie.
+• CHIMIE GÉNÉRALE
+Révision des notions de base de la chimie générale, avec les mélanges et les corps purs, les atomes, les molécules, les nombres d’oxydation, la classification des molécules, la masse atomique, la masse moléculaire, la mole, les équations chimiques.
+Ces notions sont bien sûr approfondies et complétées par rapport à ce qui a été vu dans le secondaire.
+• CHIMIE ANALYTIQUE
+Reprise à zéro de ce qui a été vu au secondaire. Il faut savoir qu’en secondaire, le cours de chimie analytique fait partie du cours de chimie générale.
+• CHIMIE ORGANIQUE
+Révision des différentes fonctions vues en secondaire et approfondies avant de passer au reste du programme. Première partie : nomenclature des composés organiques et deuxième partie : étude des réactions en chimie organique.
+Stage
+Le stage de fin d’études clôture la formation du bachelier en chimie. Il démarre au mois de février et s’étale sur 14 semaines. Il se déroule de préférence en entreprise et consiste en une immersion des apprenants dans le milieu professionnel. Les tâches réalisées dépendent des activités de l’entreprise et sont un complément à la formation reçue à l’école.
+La recherche du lieu de stage et la prise de contact avec le maître de stage sont des démarches que doit entreprendre l’étudiant. Afin d’aider les étudiants dans cette tâche, ils reçoivent les coordonnées des lieux de stage proposés antérieurement et peuvent faire appel à l’interface « Stage des pôles » avec qui nous collaborons. Ils sont par ailleurs formés quant à la manière de rédiger une lettre de motivation, un CV et à la façon de passer un entretien d’embauche.
+Le stage aboutit à la rédaction d’un travail de fin d’études (TFE) et à une présentation orale devant un jury composé de professeurs de la Haute École et de scientifiques de différentes entreprises.
+TFE
+Dans cette rubrique, vous trouverez des exemples d’abstracts de travaux de fin d’études réalisés par les étudiants de 3è année afin d’obtenir leur diplôme. Ces travaux ont été réalisés au cours de leur stage de quatorze semaines, encadrés par un professeur de notre établissement et sur les conseils des entreprises qui les accueillent en stage.
+Évaluation de l’impact de peptides endogènes présents dans les molécules de CMH-II d’un nouveau fournisseur sur le test de binding
+L’affinité de l’Imotope® à un complexe majeur histocomptabilité de classe II (CMH-II) est déterminé à l’aide du test de binding en mesurant la fluorescence émise par un peptide biotinylé en compétition avec l’Imotope®.
+Ce travail traite de l’évaluation de l’impact de peptides endogènes présents dans les molécules de CMH-II d’un nouveau fournisseur sur le test de binding.
+Les molécules CMH-II du nouveau fournisseur présentent des peptides endogènes dans la poche de liaisons, ce qui n’était pas le cas des molécules du précédent fournisseur. Or, Ces peptides endogènes peuvent empêcher la liaison des peptides à tester. Des tests ont donc été effectués pour mieux comprendre leurs impacts sur le test de binding. L’objectif est de valider le nouveau fournisseur et d’optimiser les conditions expérimentales pour les prochains tests de binding avec les nouvelles molécules de CMH-II.
+Réalisation de pièces poreuses en zircone par fabrication additive
+L’oxyde de zirconium plus communément appelé zircone, de formule chimique ZrO2, est une poudre céramique issue principalement de minerais de baddeyelite et de zircon. Principalement utilisée pour ses propriétés supérieures en résistances mécaniques et thermiques, les pièces à base de zircone sont appliquées dans divers domaine tels que la santé (en tant qu’implant de hanche ou implant dentaire), l’énergie (pile à combustion) ou dans l’aviation. L’objectif principal de ce travail consiste, en premier lieu, en la réalisation de pâtes pour fabrication additive (impression 3D) à base de poudre de zircone et en leurs caractérisation rhéologiques. Ensuite, les pâtes ayant les propriétés rhéologiques requises sont employées en fabrication additive par stéréolithographie. Finalement, des pièces tridimensionnelles poreuses à base de poudre de zircone sont imprimées et caractérisées (taille, tailles des pores et résistances mécaniques). Pour de plus amples information sur la société, rendez-vous sur leur site www.greenmat.be.
+Suivi de la qualité physico-chimique de 4 affluents de l’Our dans le cadre d’un projet de réintroduction de la moule perlière (Margaritifera margaritifera) – Validation de la méthode d’analyse au Parc naturel Hautes Fagnes – Eifel
+La moule perlière (Margaritifera margaritifera) est en danger critique d’extinction. Une des missions du projet LIFE « Vallées ardennaises » est la réintroduction de la moule perlière dans le bassin de l’Our. Ce travail, réalisé au Parc Naturel Hautes Fagnes-Eifel, a pour but d’évaluer la qualité physico-chimique de 4 affluents de l’Our (le Frankenbach, le Kolvenderbach, le Treisbach et le Hasselbach) afin de déterminer les deux affluents répondant au mieux aux exigences de l’espèce à réintroduire. Pour ce faire, trois
+campagnes d’analyses sont réalisées, à 1 mois d’intervalle chacune. Les analyses sont exécutées via plusieurs méthodes en fonction du paramètre à analyser (orthophosphates, nitrates, nitrites, azote ammoniacal, DBO5, DCO, pH, conductivité, température et oxygène dissous). Les analyses sont effectuées au Parc Naturel, chez Celabor (laboratoire agréé) et sur le terrain à l’aide de sondes et de « data loggers ».
+Le 2e objectif du travail est d’ailleurs de valider les méthodes utilisées au Parc Naturel lors de ces campagnes. Les résultats montrent que les 2 cours d’eau possédant la meilleure qualité physico-chimique sont le Treisbach et le Kolvenderbach et que les méthodes du Parc Naturel sont valides.
+Confirmation expérimentale de conditions de séparation optimale en chromatographie liquide déterminées in silico.
+Le but de mon stage est d’analyser expérimentalement des conditions de séparation en chromatographie liquide et de comparer les résultats obtenus avec ceux prédis par un modèle prédictif QSRR (“Quantitative structure rétention relationships”).
+Ceci sera appliqué au cas pratique du formotérol et de ses impuretés. Dans un premier temps, l’adéquation de la stratégie globale sera évaluée. Par la suite, c’est la qualité de prédiction du modèle à surface de réponse qui sera évaluée.
+Développement d’une méthode immunologique (ELISA) pour un contrôle qualité de matières premières et secondaires
+Le but de mon stage chez Unisensor est de vérifier la faisabilité et ensuite de valider une méthode dite immunologique de type ELISA, afin de pouvoir réaliser un contrôle qualité sur les matières premières et secondaires utilisées dans les tests LFIA (Lateral Flow Immunoassay) par la société. Il sera ici question de contrôler des lots d’anticorps provenant d’un fournisseur, mais aussi des lots d’anticorps conjugués à des nanoparticules d’or synthétisées au sein de l’entreprise.
+Développement du dosage de l’andrographolide et des fructo-oligosaccharides par UPLC-MS
+Les fructo-oligosaccharides sont des oligomères de fructose présents en grosse quantité dans le tubercule Sud-Américain nommé yacon, présentant des propriétés intéressantes tel qu’un pouvoir édulcorant sans augmenter la glycémie ou un aspect prébiotique, il a été intéressant de mettre en place une méthode de dosage et d’extraction de ces molécules par la technique de pointe : La chromatographie liquide à ultra hautes performances couplé à un détecteur de masse.
+Mise au point d’une méthode d’analyse des chlorures par électrode spécifique
+Une nouvelle méthode d’analyse des chlorures par électrode spécifique doit être mise au point dans le but de doser de très faibles teneurs en chlorures dans des échantillons essentiellement concentrés en phosphates ou en bore. Le taux de chlorures à doser avec cette méthode doit se situer en dessous de 150 µg/l.
+Dans ce travail, après une présentation de l’entreprise, au sein de laquelle ce stage a été réalisé, l’objectif de cette méthode sera abordé en expliquant plus en détail son domaine d’application. Une partie théorique sur la potentiométrie appliquée aux électrodes spécifiques ainsi que le rôle de chacun des constituants du montage mis en place sera ensuite exposé.
+Enfin, les résultats des différents essais permettant la mise au point de la nouvelle méthode d’analyse des chlorures seront discutés après la partie expérimentale.
+Mise au point et développement de méthodes de test : comparaison et alignement de deux presses à injection
+Mon travail chez Cabot Plastics consistait à aligner deux presses à injection. Pour ce faire, j’ai travaillé sur différents types de produits à base de noir de carbone. J’ai injecté ces différents produits, afin d’obtenir des pièces de plastiques. Ensuite, j’ai réalisé différents tests mécaniques et électriques sur les pièces. Une fois tous les résultats obtenus et les différences entre les deux presses à injection établies, j’ai modifié différents paramètres au niveau d’une presse à injection afin d’obtenir des résultats identiques à l’autre presse à injection.
+DÉVELOPPEMENT D’UNE MÉTHODE D’ANALYSE POUR L’ALLERGÈNE MOUTARDE PAR SPECTROMÉTRIE DE MASSE (LC-MS/MS)
+Ce TFE est basé d’une part sur la recherche de cibles spécifiques de l’allergène moutarde et d’autre part sur l’analyse de plusieurs moutardes. Ces analyses et recherches consistent en la sélection de peptides dont la sensibilité et la spécificité seront les plus élevées possible afin de pouvoir détecter par UPLC-MS/MS de manière optimale la présence de traces de moutarde dans des aliments.
+Ces recherches consistent en l’établissement d’une liste de peptides spécifiques à la moutarde sur base de recherches bibliographiques et de traitement de données. Les analyses, quant à elles, résident en une extraction des protéines de moutardes, leur digestion et purification, ainsi que leur analyse par UPLC-MS/MS, afin de tester leurs spécificités respectives ainsi que d’éventuelles réactions croisées avec d’autres espèces/ingrédients.
+DÉVELOPPEMENT D’UNE MÉTHODE D’ANALYSE MULTI-ANALYTES PAR UPLC-MS/MS DANS LE CADRE DU CONTRÔLE QUALITÉ DE PRODUITS PHYTOPHARMACEUTIQUES
+Ce travail s’inscrit dans le cadre du développement au sein du laboratoire Fédéral pour la Protection de la Chaine Alimentaire de Liège (AFSCA-LFSAL) d’une méthode multi-analytes permettant de détecter la présence de produits phytopharmaceutiques dans certains engrais.
+Ce travail de fin d’études passe en revue une liste de 51 matières actives les plus susceptibles d’avoir été incorporées à la composition de certains engrais fournie par la Direction Générale de la Politique de Contrôle.
+Les différentes étapes du développement sont : la détermination en spectrométrie de masse des conditions de détection de chacune des molécules, la détermination du fragment de quantification de chacune de celles-ci, le travail de séparation chromatographique et enfin, l’évaluation de l’effet de matrice.
+MISE AU POINT, OPTIMISATION ET UTILISATION EN ROUTINE DE MÉTHODES DE DOSAGE HPLC/UHPLC
+Les dosages HPLC/UHPLC réalisés au laboratoire (L’Oréal à Libramont) ont pour but de mettre en évidence et de quantifier la présence de substances réglementées ou revendiquées. Les matières premières, les vracs et certains produits finis tels que les oxydants, les soins colorés et non colorés, les éclaircissants et les shampooings sont concernés par ces dosages.
+• Utiliser en routine les méthodes de dosage HPLC existantes pour la caractérisation des matières premières, des vracs et des produits finis ;
+• Mettre au point et optimiser des méthodes de dosage UHPLC pour la caractérisation des vracs et des produits finis ;
+• Mettre au point et optimiser des méthodes de dosage HPLC sur base de nouvelles spécifications pour l’analyse des matières premières ;
+• Chercher des conditions opératoires différentes de celles utilisées pour remplacer, dans la mesure du possible, le solvant d’élution méthanol par de l’acétonitrile.
+Dans le secteur public, comme dans le secteur privé, le bachelier en chimie pourra travailler dans des secteurs aussi divers que :
+- La recherche,
+- Le développement,
+- Les laboratoires de contrôles,
+- Le conseil technique et scientifique,
+- La police scientifique,
+- Comme technico-commercial,
+- Comme agent d’expertise, d’inspection,
+- Dans l’enseignement (moyennant un diplôme pédagogique complémentaire),
+- Comme spécialiste de l’environnement dans le monde industriel et le secteur public,
+- Au service contrôle qualité,
+- Comme spécialiste de pharmaco-chimie dans le monde industriel et le secteur public.
+L’industrie est le plus gros employeur :
+- Industries pétrochimiques : synthèse de colorants, de peintures, de plastiques et polymères, de textiles, de matériaux isolants, de parfums, d’encres d’imprimerie, …
+- Industries pharmaceutiques : synthèse de médicaments, de cosmétiques, …
+- Industries agroalimentaires : synthèse d’engrais, de pesticides, de détergents, raffinage du sucre, …
+Quelques entreprises où travaillent nos anciens : la Société Wallonne des Aéroports (SOWAER), l’administration communale de Libramont-Chevigny, Service Environnement et Travaux, Eurogentec, GSK, Galéphar, Mithra, Lhoust, …
+Outre la formation reçue à l’école, nos étudiants ont l’opportunité de se former à Seneffe au centre CefoChim, Centre de Formation aux métiers de Production de l’Industrie Chimique et Pharmaceutique.
+L’accès à ces formations constitue un atout majeur pour un chimiste à la recherche d’un emploi.
+- Stage de deux jours sur la chromatographie gazeuse et la chromatographie liquide à haute performance, techniques de pointe pour les analyses chimiques.
+Durant cette formation, l’étudiant apprendra à utiliser les appareillages et à exploiter les résultats obtenus en intégrant les notions théoriques enseignées au cours.
+Une attestation de formation est délivrée par le centre au terme du stage.
+- Stage de deux jours sur l’étude d’une distillation fractionnée en continu et d’une réaction chimique en situation industrielle.
+Durant cette formation, l’étudiant apprendra à maîtriser certains concepts théoriques étudiés durant ses études en les appliquant de manière pratique. Il apprendra également à maîtriser le fonctionnement d’une installation industrielle via la lecture et la compréhension de schémas (P&ID), la gestion d’une production, les aspects sécurité et les dysfonctionnements en situation réelle ainsi que le travail d’équipe dans un but économique.
+Points forts
+-
+Bachelier professionnalisant
+à l’inverse du bachelier de transition, à l’université ou dans les écoles d’ingénieurs, qui doit être complété par 2 années de master
+-
+Acquisition des connaissances scientifiques théoriques
+mais aussi des compétences de la pratique de laboratoire : environ 1/3 des cours des Bloc1 et 2 sont des laboratoires. Pour le Bloc3, la pratique représente 2/3 des cours de l’année
+-
+Formation de techniciens de haut niveau
+pouvant s’intégrer dans des domaines aussi variés que l’industrie (chimique, biochimique, pharmaceutique, …), la recherche, l’environnement, …
+-
+Mise en contact direct avec la réalité professionnelle
+par des visites en entreprise, des visites sur le terrain, des formations extérieures (CefoChim et BioWin) et le stage de fin d’études
+-
+Activités pratiques (laboratoires) par groupes de 12 étudiants
+ce qui permet de centrer la formation sur l’étudiant
+-
+Offres de stages et d’emplois disponibles sur le site
+sur la page Facebook du département et directement par mail aux étudiants concernés (et anciens pour les offres d’emplois)
+-
+Relations entre le milieu professionnel et les professeurs
+notamment lors des TFE et des stages, lors des visites, … pour une meilleure approche des cours
+-
+Évaluation continue par l’organisation d’interrogations régulières
+par la tenue de cahiers de laboratoire et par la réalisation des rapports

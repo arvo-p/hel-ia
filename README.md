@@ -1,5 +1,5 @@
 # Agent conversationnel Haute Ecole de Liège 
-- **Destiné à renseigner les utilisateurs en centralisant l’accès aux informations institutionnelles de l’HEL.
+- Destiné à renseigner les utilisateurs en centralisant l’accès aux informations institutionnelles de l’HEL.
 
 ### Description des Nœuds du Graphe
 
@@ -20,6 +20,6 @@
 - **Modèle de Langage (LLM) :** `Llama 3.3-70b` via l'API **Groq** (`ChatGroq`)
 - **Routage Sémantique :** Hugging Face Encoders
 - **Recherche & Indexation (RAG) :** - `Vector Retriever` (Sens sémantique profond)
-  ** - `BM25Retriever` (Termes techniques exacts et mots-clés)
+   - `BM25Retriever` (Termes techniques exacts et mots-clés)
 - **Gestion de la Mémoire :** `MemorySaver` avec gestion de sessions par `thread_id`
 - **Persistance & Cache :** SQLite
